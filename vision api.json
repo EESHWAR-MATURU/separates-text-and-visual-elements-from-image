@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "perfect-atrium-424213-e2",
+  "private_key_id": "7a75257ee3400bf40b7129769a5ec25db3cae04f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1GUQkxA2f3G6s\nH4og4gbFIkIn/5DdXjwyRanONpE78PsaiwWtdIQy5u/ETD0HszizU6x06aMpJuaG\nIXeHlqWpqm0qb26yEPUloI8xVblOXLwgoxaWEY0SqL1JiVtzNGLQ2BG2lrp8bvXd\nwa9eW4SjOxDjQmJQdVvDhZQu/pR1vjW2RHkJPvnqYyw0WqTpLJkOIhq9hABAHnJd\nlPK4CLKE3DlZiCVeM2g9BcIgYmcNrzWY7rYIvHCaabIYGCNGy0iNkUlmFN4P6apk\ncszKKi4GBI2f00eXlyuE9iv4HqMxLPsf1d79m1CdeWwghU2Vz8CKvuy/PA2UnfZm\no2vaIz9bAgMBAAECggEAOtbLshpUxuTKvHe+3DIzuucHkZFSUuokKr1Bj3NhOpVw\nME6M+K9LqHIp4qBWj+LmADWmaZHjZiJycY/8EvyaNIbf0xLDZ21lCOWiwIe2nkQ5\nB22VkAqByFc0sOjE4qhZlrss/iL40icHERa10LVxYct2EDBoWvXWa69B1wb12072\nRwkMxOi7fNHVbYmiPsXgjXJ7j5Vmh9LF+Q5jgKK35eoX4/wIbIXCacFYOF8cdTTc\nxrlBlKD/TPbRl7MYXu+MSdBzScTnb9vdQCiLMDvHpcsJPrNwopv+67hUyTlFf4+m\npDIGXue/ilkehdNKS8KTJQhbia7lawuZDmVpqMDJ2QKBgQDnEKGpWjjHF/L0ljoz\nsUF/Eh6Wh2txsGRaJX0ROeQKvst/6nuKih0Yvh9v5xS0lv5wv+xdz14JJ9Wg5+FI\nfw2NeNvH6EfX8ZDohguLG2uSjkD7hBwiIAqSAiBvEykQvMjCMrUd0CaCuJhrb79R\n1v0radt5gkITnsq4P0ZBjGy3ZQKBgQDIpEYCmbbCc3FhZ3uQrVGgn4KrM0JPebjA\nIXAoMrjRLCBbMt1HRp0Mz7s+eVIQPLN2VQwaegtKs6HHRDASrG0tAQHDyDghxg9n\nwhSMTF/9Zen7n3bbVZC9uhmyP2Gr+x3NhF2qvnYDYcyW84acMCmUhSDCW/pV+6HH\nsaG323GPvwKBgQCfcnKcEo4rlPMqpJ/1G9Q+g5pn9XrHMRmOu1/ai0A5yf9TfdNS\nfowljszSw3seQzPBSi8pbPdPChX4uwpSpJoNjeDbygYJlcCRNC6zB3Dr6Q4egcOI\nKOQibSVEgMxNqHhAyg0BTanFeuxy9uHm75w0YQ/6gVBniaQKEF/Cy8wZoQKBgA7A\nFO2IA2mUNxekFe9y7ndSgra3U/6nwi9NxgMOh4vJJK/Ps3jT9iPE+c0D+kZ7T+45\nHmSr6DybrB8MIkSdLIGMe2a7R3UkLGnCWORfkQb+AQ+gj4pcZgGstsrl4fZUxcIg\nIwq0adSh0fqe+Jxu5f+nMdtYC7VahHA73Nm5ZkXdAoGAWtv8hAz/1oqk3rE7GHfL\nhDViPgk724OMkswAxwDLF3++vwMVha922WFaoLNwhg1dRrUXhrxZ0qSLzC/R4NQL\nx3KF0Q0EukhYXMJSsFqHzz/ZrL1e3oJ4szrAUGpEqhWr7S32pywc8NKBbroLsAag\nbDzJAc6OyIzpydbAFeI6G3Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "eeshwar071203@perfect-atrium-424213-e2.iam.gserviceaccount.com",
+  "client_id": "103613119608496321285",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eeshwar071203%40perfect-atrium-424213-e2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "api_key": "AIzaSyCzMItHa5BIolx5lDMLIgF35g0jjBOGvA4"
+}
